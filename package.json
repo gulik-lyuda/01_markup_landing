@@ -1,0 +1,24 @@
+{
+  "name": "01_markup_landing",
+  "version": "1.0.0",
+  "description": "An adaptive landing page markup for the finished design for different resolutions.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulik-lyuda/01_markup_landing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gulik-lyuda/01_markup_landing/issues"
+  },
+  "homepage": "https://github.com/gulik-lyuda/01_markup_landing#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-sass": "^3.1.0"
+  }
+}
